@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calorisaur</string>
+    <string name="reset">Reset</string>
+    <string name="minus_200">-200</string>
+    <string name="plus_200">+200</string>
+    <string name="minus_100">-100</string>
+    <string name="minus_50">-50</string>
+    <string name="plus_50">+50</string>
+    <string name="plus_100">+100</string>
+    <string name="calorie_count">Calorie Count</string>
+    <string name="appwidget_text">Calories</string>
+    <string name="add_widget">Add widget</string>
+    <string name="default_calorie_display">2000</string>
+    <string name="updated_starting_calories">Updated starting calories to %1$d!</string>
+</resources>
